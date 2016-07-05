@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Zeilenumbruch\Zeilenumbruch\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\user\Desktop\Zeilenumbruch\Zeilenumbruch\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\user\Desktop\Zeilenumbruch\Zeilenumbruch\UnitTestProject1\bin\Debug\Zeilenumbruch.exe
+C:\Users\user\Desktop\Zeilenumbruch\Zeilenumbruch\UnitTestProject1\bin\Debug\Zeilenumbruch.pdb
+C:\Users\user\Desktop\Zeilenumbruch\Zeilenumbruch\UnitTestProject1\obj\Debug\ZeilenumbruchTest.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Zeilenumbruch\Zeilenumbruch\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\user\Desktop\Zeilenumbruch\Zeilenumbruch\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Gabrielon521\Desktop\Schulaufgaben\Zeilenumbruch\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Gabrielon521\Desktop\Schulaufgaben\Zeilenumbruch\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Gabrielon521\Desktop\Schulaufgaben\Zeilenumbruch\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gabrielon521\Desktop\Schulaufgaben\Zeilenumbruch\UnitTestProject1\bin\Debug\Zeilenumbruch.exe
+C:\Users\Gabrielon521\Desktop\Schulaufgaben\Zeilenumbruch\UnitTestProject1\bin\Debug\Zeilenumbruch.pdb
+C:\Users\Gabrielon521\Desktop\Schulaufgaben\Zeilenumbruch\UnitTestProject1\bin\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Gabrielon521\Desktop\Schulaufgaben\Zeilenumbruch\UnitTestProject1\obj\Debug\ZeilenumbruchTest.csprojResolveAssemblyReference.cache
+C:\Users\Gabrielon521\Desktop\Schulaufgaben\Zeilenumbruch\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Gabrielon521\Desktop\Schulaufgaben\Zeilenumbruch\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
