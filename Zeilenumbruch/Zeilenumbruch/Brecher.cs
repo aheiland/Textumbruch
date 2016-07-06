@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 //Textänderung ;-)
+//Text...
 namespace Zeilenumbruch
 {
     public class Brecher
