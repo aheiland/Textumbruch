@@ -13,16 +13,9 @@ namespace Zeilenumbruch
         public int j { get; set; }
         public Brecher(String text) 
         {              
-                if (text != null)
-                {
-                    IsNotNull = true;
-                    Text = text;
-                }
-                else
-                {
-                    IsNotNull = false;
-                    Text = String.Empty;
-                }     
+				IsNotNull = (text != null);
+				IsNotNull ? Text = text : Text = String.Empty;
+		
         }
         public string Umbrechen(int laenge) 
         {
