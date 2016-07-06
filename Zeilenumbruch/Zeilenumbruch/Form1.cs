@@ -19,6 +19,8 @@ namespace Zeilenumbruch
         {
             InitializeComponent();
         }
+	
+	
 
         public void btn1_Click(object sender, EventArgs e)
         {
@@ -122,5 +124,6 @@ namespace Zeilenumbruch
         {
             MessageBox.Show(Meldung, "Fehler", MessageBoxButtons.OK, MessageBoxIcon.Warning);
         }
+	
     }
 }
