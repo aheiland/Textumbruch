@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.IO;
 
 namespace Zeilenumbruch
-{
+{ // Wurst
     public partial class Form1 : Form
     {
         Brecher brecher;
