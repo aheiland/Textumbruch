@@ -47,7 +47,7 @@ namespace UnitTestProject1
             bool test1 = testForm.CheckStringForEmpty(testForm.TextBox1.Text);
             bool test2 = testForm.CheckStringForEmpty(testForm.TextBox3.Text);
 		
-	    Assert.IsTrue(!test1 %% !test2);
+	    Assert.IsTrue(!test1 && !test2);
         }
         [TestMethod]
         public void NachherisEmptyByDefault()

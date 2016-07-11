@@ -34,3 +34,12 @@ C:\Users\Gabrielon521\Desktop\Schulaufgaben\Zeilenumbruch\Zeilenumbruch\obj\Debu
 C:\Users\Gabrielon521\Desktop\Schulaufgaben\Zeilenumbruch\Zeilenumbruch\obj\Debug\Zeilenumbruch.Form1.resources
 C:\Users\Gabrielon521\Desktop\Schulaufgaben\Zeilenumbruch\Zeilenumbruch\obj\Debug\Zeilenumbruch.Properties.Resources.resources
 C:\Users\Gabrielon521\Desktop\Schulaufgaben\Zeilenumbruch\Zeilenumbruch\obj\Debug\Zeilenumbruch.csproj.GenerateResource.Cache
+D:\Projekt\schule\textumbruch\Textumbruch\Zeilenumbruch\Zeilenumbruch\bin\Debug\Zeilenumbruch.exe.config
+D:\Projekt\schule\textumbruch\Textumbruch\Zeilenumbruch\Zeilenumbruch\obj\Debug\Zeilenumbruch.exe
+D:\Projekt\schule\textumbruch\Textumbruch\Zeilenumbruch\Zeilenumbruch\obj\Debug\Zeilenumbruch.pdb
+D:\Projekt\schule\textumbruch\Textumbruch\Zeilenumbruch\Zeilenumbruch\bin\Debug\Zeilenumbruch.exe
+D:\Projekt\schule\textumbruch\Textumbruch\Zeilenumbruch\Zeilenumbruch\bin\Debug\Zeilenumbruch.pdb
+D:\Projekt\schule\textumbruch\Textumbruch\Zeilenumbruch\Zeilenumbruch\obj\Debug\Zeilenumbruch.csprojResolveAssemblyReference.cache
+D:\Projekt\schule\textumbruch\Textumbruch\Zeilenumbruch\Zeilenumbruch\obj\Debug\Zeilenumbruch.Form1.resources
+D:\Projekt\schule\textumbruch\Textumbruch\Zeilenumbruch\Zeilenumbruch\obj\Debug\Zeilenumbruch.Properties.Resources.resources
+D:\Projekt\schule\textumbruch\Textumbruch\Zeilenumbruch\Zeilenumbruch\obj\Debug\Zeilenumbruch.csproj.GenerateResource.Cache

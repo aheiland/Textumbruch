@@ -14,3 +14,10 @@ C:\Users\Gabrielon521\Desktop\Schulaufgaben\Zeilenumbruch\UnitTestProject1\bin\D
 C:\Users\Gabrielon521\Desktop\Schulaufgaben\Zeilenumbruch\UnitTestProject1\obj\Debug\ZeilenumbruchTest.csprojResolveAssemblyReference.cache
 C:\Users\Gabrielon521\Desktop\Schulaufgaben\Zeilenumbruch\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\Users\Gabrielon521\Desktop\Schulaufgaben\Zeilenumbruch\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\Projekt\schule\textumbruch\Textumbruch\Zeilenumbruch\UnitTestProject1\obj\Debug\ZeilenumbruchTest.csprojResolveAssemblyReference.cache
+D:\Projekt\schule\textumbruch\Textumbruch\Zeilenumbruch\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Projekt\schule\textumbruch\Textumbruch\Zeilenumbruch\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Projekt\schule\textumbruch\Textumbruch\Zeilenumbruch\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Projekt\schule\textumbruch\Textumbruch\Zeilenumbruch\UnitTestProject1\bin\Debug\Zeilenumbruch.exe
+D:\Projekt\schule\textumbruch\Textumbruch\Zeilenumbruch\UnitTestProject1\bin\Debug\Zeilenumbruch.pdb
+D:\Projekt\schule\textumbruch\Textumbruch\Zeilenumbruch\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
